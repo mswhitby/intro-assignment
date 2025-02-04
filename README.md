@@ -1,3 +1,3 @@
 # intro-assignment
 
-This is a practice run.
+Write a function named "intro_assignment" that does not require an input and returns your grade on this assignment as the output.
